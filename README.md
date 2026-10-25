@@ -13,6 +13,6 @@ I'm an **Android Developer** with a unique background—an M.Sc. in Chemistry tu
 
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/rudraksh-dombale](https://www.linkedin.com/in/rudraksh-dombale)
-- **Email:** rudraksh@example.com
+- **Email:** dombalerudraksh@gamil.com
 
 "Focus on building the empire; the rest will follow." 🚜👑
