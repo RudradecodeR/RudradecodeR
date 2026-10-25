@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Rudraksh Dombale! 👋
 
-<!--
-**RudradecodeR/RudradecodeR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Android Developer** with a unique background—an M.Sc. in Chemistry turned passionate software engineer. I specialize in building scalable, user-centric mobile applications and have a deep interest in Android OS modifications.
 
-Here are some ideas to get you started:
+### 🚀 What I'm currently working on
+- **SkillConnect:** A Java/XML-based Android app connecting local job seekers within a 1-10 km radius.
+- **CoreDating:** A modern dating platform with a focus on seamless UI/UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Tech Stack
+- **Languages:** Java, Kotlin, XML
+- **Tools & Frameworks:** Android Studio, Firebase (Auth, Realtime DB, Storage), Google Play Console
+- **System Level:** Custom ROMs, LineageOS modification, TWRP
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/rudraksh-dombale](https://www.linkedin.com/in/rudraksh-dombale)
+- **Email:** rudraksh@example.com
+
+"Focus on building the empire; the rest will follow." 🚜👑
